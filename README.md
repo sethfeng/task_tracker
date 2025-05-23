@@ -2,6 +2,8 @@
 
 这是一个基于Go语言开发的命令行任务追踪工具，支持任务的增删改查、状态管理及分类列表查看功能，通过JSON文件持久化存储任务数据。
 
+实践项目: https://roadmap.sh/projects/task-tracker
+
 ## 功能特性
 - 任务基本操作：添加、更新、删除任务
 - 状态管理：标记任务为待办（pending）、进行中（in progress）、已完成（done）
